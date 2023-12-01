@@ -1,0 +1,61 @@
+@font-face {
+    font-family: "gilroy";
+    src: url("Gilroy-ExtraBold.ttf");
+}
+
+body {
+    background-color:#EAF6F6;
+}
+
+p {
+    color:brown;
+    font-size: 1.5vmax;
+    font-family: serif;
+}
+
+h1 {
+    color: #66BFBF;
+    font-family: gilroy;
+    font-size: 3.5vmax;
+}
+
+li {
+    font-size: 30px;
+}
+
+h3 {
+    color: #66BFBF;
+    font-family: gilroy;
+}
+
+#link {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+li {
+    color: brown;
+}
+
+table {
+    font-size: 40px;
+    margin-bottom: 30px;
+}
+
+
+tr {
+    color:black;
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 3px;
+    border-color: rgb(116, 2, 2);
+}
+
+#profile {
+    height: 30vmax;
+    width: 30vmax;
+    border-radius: 50%;
+}
+
